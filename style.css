@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+body {
+    background: black;
+    
+}
+
+main {
+    display: grid;
+    grid-template-areas:
+        "header" 
+        "profileCard"
+        "footer";
+    gap: 0;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    height: 800px;
+    padding: 0;
+}
+h1 {
+    display: inline-block;
+    position: absolute;
+    left: 250px;
+    top: 100px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+
+header {
+    grid-area: "header";
+    height: 150px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+
+
+.profile {
+    position: relative;
+    grid-area: "profileCard";
+    border: none;
+    height: fit-content;
+    
+    
+    
+}
+.profileContent {
+    border-radius: 15px;
+    margin: 0 auto;
+    color: white;
+    padding: 10px;
+    background: rgb(7, 1, 112);
+    background: linear-gradient(90deg, rgba(7, 1, 112, 1) 17%, rgba(63, 3, 117, 1) 64%, rgba(92, 1, 152, 1) 100%);
+
+}
+.linkContainer {
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color:rgba(63, 3, 117, 1);
+}
+a:link {
+    color:rgba(63, 3, 117, 1);
+}
+a:hover {
+    color:seagreen;
+    cursor: grab;
+}
+a:visited {
+    color: slateblue;
+}
