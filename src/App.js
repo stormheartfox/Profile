@@ -10,7 +10,7 @@ function App() {
               src="https://i.imgur.com/wsagIbT.jpeg"
               alt="Profile headshot"
             />
-            <h1> Hi, I'm Michael!</h1>
+            <h1> Hi, I'm Michael Velsigne!</h1>
             <p>
               I am a Software Engineer located in Central Coast, NSW. I
               currently work for Australia Post; one of Australia's most
