@@ -1,4 +1,4 @@
-# Profile
+# Profile 🧑🏾
 
 This application was initially created with vanilla javascript and some basic CSS and HTML in 2021 as part of the Software Engineering Immersive General Assembly course career help.
 
@@ -8,11 +8,19 @@ There will be a number of updates starting in May 2023 which will align the proj
 
 ---
 
-## Security
+## Testing 🧪
+
+React testing library will be utilised as part of TDD implementation.
+
+## Contributions 👨‍👩‍👧‍👦
+
+Contributions will be limited to pull requests with owner approved code reviews.
+
+## Security 🕵🏾
 
 As part of expanding knowledge this code will frequently undergo Snyk and Talisman snapshots to better understand the tooling and increase the development of Application Security considerations at every level of the code.
 
-## Future considerations
+## Future considerations 💭
 
 - Git actions
   - Basic pipeline implementations
