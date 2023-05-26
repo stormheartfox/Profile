@@ -40,7 +40,7 @@
   "version": "1.0.0",
   "description": "Portfolio website",
   "main": "index.js",
-  "homepage": "https://michaeljgrant.github.io/Profile/",
+  "homepage": "https://michaeljgrant.github.io/Profile",
   "repository": "git@github.com:michaeljgrant/Profile.git",
   "author": "mjg.grant.m@gmail.com",
   "license": "MIT",
