@@ -29,11 +29,9 @@ As part of expanding knowledge this code will frequently undergo Snyk and Talism
 - Pre-commit hooks
   - linting
   - commit message checks
-- Cypress testing
-  - semantic use of React
-  - accessibility
-  - user experience
-- Cloud deployment
-  - containerisation
-  - terraform build
-  - Platform consideration: GCP or AWS
+
+## To-Do (July 2024)
+- Teach implementations
+  - how to deploy react in GitHub pages
+  - how to create and use react components 
+  - moving from React to Flask
